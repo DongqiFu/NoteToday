@@ -2,7 +2,7 @@
 
 Distance metric function and kernel function can calculate similarity or distance between two items.
 
-However, there is a little difference between them. In short, distance metric function needs to hold more conditions than kernel does.
+However, there is a little difference between them. In short, the distance metric function needs to hold more conditions than the kernel function does.
 
 A related question can be found [here](https://math.stackexchange.com/questions/3311684/relationship-between-kernels-and-metrics), [here](https://math.stackexchange.com/questions/221704/transforming-a-distance-function-to-a-kernel), and [here](https://math.stackexchange.com/questions/1862037/how-do-you-prove-triangle-inequality-for-this-metric).
 
