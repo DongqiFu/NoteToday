@@ -1,3 +1,3 @@
 # NoteToday
 
-Taking notes for some new learned concepts.
+Taking notes for some newly learned concepts.
